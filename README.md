@@ -1,8 +1,28 @@
-# React + Vite
+<div align="center">
+  <h1>Zelda API</h1>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img src="public/gif/zelda-api.gif" alt="Demonstration video" />
+</div>
 
-Currently, two official plugins are available:
+<div align="center">
+  <h3><a href="https://michelesilva20.github.io/bank_modern_app/" target="_blank">Explore the project!</a></h3>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div>
+    <h2>📖 Description</h2>
+    <p><strong>Zelda API</strong> is a project created with the goal of showcasing all the games from The Legend of Zelda franchise by consuming the API provided at https://github.com/deliton/zelda-api.</p>
+
+  <p><a href="https://github.com/deliton/zelda-api" target="_blank">Access the API</a></p>
+</div>
+
+<div>
+  <h2>💻 Technologies</h2>
+  <ul>
+    <li>React.js</li>
+    <li>Tailwind CSS</li>
+    <li>Vite</li>
+    <li>Axios</li>
+  </ul>
+</div>
