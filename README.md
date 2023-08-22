@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-  <h3><a href="https://michelesilva20.github.io/bank_modern_app/" target="_blank">Explore the project!</a></h3>
+  <h3><a href="https://michelesilva20.github.io/zelda-api/" target="_blank">Explore the project!</a></h3>
 </div>
 
 <div>
     <h2>📖 Description</h2>
-    <p><strong>Zelda API</strong> is a project created with the goal of showcasing all the games from The Legend of Zelda franchise by consuming the API provided at https://github.com/deliton/zelda-api.</p>
+    <p><strong>Zelda API</strong> is a project created with the goal of showcasing all the games from The Legend of Zelda franchise by consuming the API.</p>
 
   <p><a href="https://github.com/deliton/zelda-api" target="_blank">Access the API</a></p>
 </div>
