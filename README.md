@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="public/gif/zelda-api.gif" alt="Demonstration video" />
-</div>
-
-<div align="center">
   <h3><a href="https://michelesilva20.github.io/zelda-api/" target="_blank">Explore the project!</a></h3>
 </div>
 
